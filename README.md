@@ -24,4 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMendesMarcondes&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marlon-mendes-marcondes/)
+[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-mendes-marcondes/)
