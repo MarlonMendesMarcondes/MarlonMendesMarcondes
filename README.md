@@ -10,7 +10,9 @@
 
 #
 ## My knowledge 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block"><br> 
+  <img align="center" alt="Marlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Marlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Marlon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Marlon-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Marlon-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -20,7 +22,7 @@
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Marlon-Jupiter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Marlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="right"  alt="Marlon-gif" width="200" height="120" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
   
 </div>
