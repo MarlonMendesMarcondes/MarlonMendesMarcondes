@@ -1,7 +1,7 @@
 # Hello i am Marlon ✋
 # I'm a Backend Developer
 ## Currently studing System Analysis and Development
-## Searching for new work opportunities and experiences.
+## working as a fullstack python developer intern 
 ### 
 #
 
