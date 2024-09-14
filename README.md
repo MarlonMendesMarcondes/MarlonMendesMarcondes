@@ -1,4 +1,4 @@
-# Hello i am Marlon ✋
+# Hello I am Marlon ✋
 # I'm a Backend Developer
 ## Currently studing System Analysis and Development
 ## Working as a fullstack python developer intern 
